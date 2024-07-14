@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @o-elgazzar a rising sophomore cs major  
+- 👋 Hi, I’m @o-elgazzar a cs major
 - 🌱 I’m currently learning a handful of things right but purely focusing on Java currently
 - 📫 If you'd like to reach out to me you can add my discord user: faltenz
 - 📫 Or you can also email me: o.elgazzar@outlook.com
