@@ -11,6 +11,6 @@
 </ul><br/>
 
 <p align="left">
-<a href="#"><img href="#" src="https://skillicons.dev/icons?i= html , css , js , c , cpp , java "/> 
+<a href="#"><img href="#" src="https://skillicons.dev/icons?i=html,css,js,c,cpp,java "/> 
 </p>
 <br/>
