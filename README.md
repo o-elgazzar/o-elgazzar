@@ -2,7 +2,7 @@
 
 <div align="left">
 
-<img src="https://i.imgur.com/21c0w1z.gif" target="image">
+<img src="[https://i.imgur.com/21c0w1z.gif](https://cdn.thingiverse.com/assets/de/2c/f6/05/34/14191f83-95f7-4c1f-a33e-74f49315326c.gif)" target="image">
 
 <p><strong>I'm Omar Elgazzar</strong></p>
 <ul>
