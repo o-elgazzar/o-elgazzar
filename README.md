@@ -2,6 +2,8 @@
 
 <div align="left">
 
+<img src="https://i.imgur.com/21c0w1z.gif" target="image">
+
 <p><strong>I'm Omar Elgazzar</strong></p>
 <ul>
   <li>I'm a rising Computer Science Sophomore at Brooklyn College</li>
